@@ -2,6 +2,7 @@
 
 # Hello world ruby program
 
+puts "Hello you!"
 puts "Enter a string to be reversed: "
 str = gets
 
